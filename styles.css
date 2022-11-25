@@ -92,6 +92,10 @@ span{
     transform: translateX(330px);
     transition: all 0.5s ease-in-out;
 }
+.Linkedean > a:hover > span{
+    transform: translateX(370px);
+    transition: all 0.5s ease-in-out;
+}
 .frontendMentor > a:hover > span{
     transform: translateX(400px);
     transition: all 0.5s ease-in-out;
@@ -145,6 +149,10 @@ span{
     }
     .github > a:hover > span{
         transform: translateX(100px);
+        transition: all 0.5s ease-in-out;
+    }
+    .Linkedean > a:hover > span{
+        transform: translateX(140px);
         transition: all 0.5s ease-in-out;
     }
     .frontendMentor > a:hover > span{
