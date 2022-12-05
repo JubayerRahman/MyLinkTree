@@ -88,6 +88,10 @@ span{
     transform: translateX(230px);
     transition: all 0.5s ease-in-out;
 }
+.instagram > a:hover > span{
+    transform: translateX(260px);
+    transition: all 0.5s ease-in-out;
+}
 .github > a:hover > span{
     transform: translateX(330px);
     transition: all 0.5s ease-in-out;
@@ -145,6 +149,10 @@ span{
     }
     .facebook > a:hover > span{
         transform: translateX(70px);
+        transition: all 0.5s ease-in-out;
+    }
+    .instagram > a:hover > span{
+        transform: translateX(100px);
         transition: all 0.5s ease-in-out;
     }
     .github > a:hover > span{
